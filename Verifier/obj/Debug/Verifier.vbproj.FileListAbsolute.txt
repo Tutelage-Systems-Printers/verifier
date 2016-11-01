@@ -1,0 +1,15 @@
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\Verifier.exe.config
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\Verifier.exe
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\Verifier.pdb
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\Verifier.xml
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\SnmpSharpNet.dll
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\Printers.pdb
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\Printers.xml
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\obj\Debug\Verifier.vbprojResolveAssemblyReference.cache
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\obj\Debug\Verifier.Resources.resources
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\obj\Debug\Verifier.vbproj.GenerateResource.Cache
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\obj\Debug\Verifier.exe
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\obj\Debug\Verifier.xml
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\obj\Debug\Verifier.pdb
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\obj\Debug\Verifier.frmMain.resources
+C:\Users\mickey\Documents\Visual Studio 2015\Projects\Printer Data Software\Verifier\Verifier\bin\Debug\Printers.dll
